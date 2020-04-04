@@ -41,7 +41,7 @@ the docker engine is composed.
 
 The main concept of the docker architecture is based on the simple client-server
 model. Docker clients communicate with the Docker server also known as the
-Docker daemon to request various resources and services. THe daemon manages
+Docker daemon to request various resources and services. The daemon manages
 all the background tasks that need to be performed to complete client requests.
 Managing and distributing containers, running the containers, bulding
 containers, etc. are responsibilities of the Docker daemon. @fig:docker-arch
